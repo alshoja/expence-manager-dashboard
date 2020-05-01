@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/alshoja/ShoppingCart.svg?branch=master)](https://travis-ci.org/alshoja/ShoppingCart)
+
 
 
 # Expence Manager Dashboard  
